@@ -1,0 +1,77 @@
+[33mcommit de2b343d1b624d56c19506786725fda72fbb6e91[m[33m ([m[1;36mHEAD -> [m[1;32mmuseum[m[33m, [m[1;31morigin/museum[m[33m)[m
+Author: unknown <Lena@DESKTOP-8F12E9K.iit.lan>
+Date:   Sun Sep 26 14:59:38 2021 +0300
+
+    feat: add contacts
+
+[33mcommit b645bc2e1e3a0815fa47f768b21f0e68b6494b7e[m
+Author: unknown <Lena@DESKTOP-8F12E9K.iit.lan>
+Date:   Sun Sep 26 14:02:18 2021 +0300
+
+    fix: art-photo
+
+[33mcommit 573290a9f86ca1a175f66ebc7e4927152131f2bc[m
+Author: unknown <Lena@DESKTOP-8F12E9K.iit.lan>
+Date:   Sun Sep 26 04:53:32 2021 +0300
+
+    feat: add galary
+
+[33mcommit 3150b829c749db1a3debb2c19e4545e0355df69f[m
+Author: unknown <Lena@DESKTOP-8F12E9K.iit.lan>
+Date:   Sun Sep 26 01:43:39 2021 +0300
+
+    feat: add explorer
+
+[33mcommit 43a443862780069b7c3ba69eccabaccb9fa996be[m
+Author: unknown <Lena@DESKTOP-8F12E9K.iit.lan>
+Date:   Sun Sep 26 00:57:23 2021 +0300
+
+    feat: add small border
+
+[33mcommit b5a84ba5b965c6c47a66f2476fd1c8d7f6870d10[m
+Author: unknown <Lena@DESKTOP-8F12E9K.iit.lan>
+Date:   Sun Sep 26 00:24:50 2021 +0300
+
+    feat: add title form tour
+
+[33mcommit 563db9f2db0daf99e95f7128b497d8f1fae686ed[m
+Author: unknown <Lena@DESKTOP-8F12E9K.iit.lan>
+Date:   Sat Sep 25 02:42:27 2021 +0300
+
+    feat: photo-tour
+
+[33mcommit 51c820d4962a01bb194949446e821bc55cbb2000[m
+Author: unknown <Lena@DESKTOP-8F12E9K.iit.lan>
+Date:   Sat Sep 25 02:26:54 2021 +0300
+
+    feat: flex and grid
+
+[33mcommit 3fa66df6165ed3c7e62906365436151c2bfe4ed4[m
+Author: unknown <Lena@DESKTOP-8F12E9K.iit.lan>
+Date:   Sat Sep 25 00:38:34 2021 +0300
+
+    feat: add cotainer
+
+[33mcommit f8dcd12b6e4a7bf1ad7a645667ea9d98a6f4ba1c[m
+Author: unknown <Lena@DESKTOP-8F12E9K.iit.lan>
+Date:   Fri Sep 24 23:33:12 2021 +0300
+
+    feat:text style link
+
+[33mcommit 29fc9da7107c6c7d501a8ab910d394779dc95da0[m
+Author: unknown <Lena@DESKTOP-8F12E9K.iit.lan>
+Date:   Fri Sep 24 23:08:23 2021 +0300
+
+    feat: add style.css
+
+[33mcommit 5e2670c107f4a9db5df98aa904bcc22415e163e8[m
+Author: unknown <Lena@DESKTOP-8F12E9K.iit.lan>
+Date:   Fri Sep 24 23:05:58 2021 +0300
+
+    feat: add index.html
+
+[33mcommit b651936671f63faee0146dfc9041f4f686c959e5[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/gh-pages[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: rs-app[bot] <57502719+rs-app[bot]@users.noreply.github.com>
+Date:   Wed Sep 22 20:39:33 2021 +0000
+
+    Initial commit
